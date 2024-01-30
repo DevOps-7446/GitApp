@@ -18,7 +18,7 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/navneet-devops/MyDevOps
             azure-pipeline-name: 'DevOps-7446.GitApp'
-            azure-devops-token: ${{secrets.AZURE_DEVOPSTOKEN}}
+            azure-devops-token: ${{secrets.AZURE_DEVOPS_TOKEN}}
   
 
         
